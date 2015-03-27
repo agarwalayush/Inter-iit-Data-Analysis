@@ -1,0 +1,236 @@
+Number,Hotel,Rating,link,Travel,Location,Sleep,Rooms,Distance,Reviews,Cleanliness,New Rating_0_5,Residuals,New Rating
+1,Grand Hyatt Goa,5,http://www.tripadvisor.in/Hotel_Review-g2322134-d2163385-Reviews-Grand_Hyatt_Goa-Bambolim_Goa.html,8,4,4.5,4.5,4,4,4.5,4.1,0.8,8.2
+2,Park Hyatt Goa Resort and Spa,5,http://www.tripadvisor.in/Hotel_Review-g312681-d307512-Reviews-Park_Hyatt_Goa_Resort_and_Spa-Cansaulim_Goa.html,8,4.5,4.5,4.5,4,4,4.5,4,1,8.1
+3,"Country Inn & Suites By Carlson, Goa Candolim",4,http://www.tripadvisor.in/Hotel_Review-g297605-d2057388-Reviews-Country_Inn_Suites_By_Carlson_Goa_Candolim-Candolim_Bardez_Goa.html,8,4,4.5,4.5,4.5,4.5,4.5,3.6,0.2,7.2
+4,Vivanta by Taj - Panaji,5,http://www.tripadvisor.in/Hotel_Review-g303877-d1480400-Reviews-Vivanta_by_Taj_Panaji-Panaji_Goa.html,8,4,4.5,4.5,4.5,4.5,4.5,3.6,2,7.2
+5,The LaLiT Golf & Spa Resort Goa,5,http://www.tripadvisor.in/Hotel_Review-g306996-d299125-Reviews-The_LaLiT_Golf_Spa_Resort_Goa-Canacona_Goa.html,8,4,4.5,4.5,4,4,4.5,4.1,0.8,8.2
+6,16 Degrees North,3,http://www.tripadvisor.in/Hotel_Review-g635747-d3179949-Reviews-16_Degrees_North-Baga_Goa.html,8,4.5,4.5,4.5,4.5,4.5,4.5,3.5,0.2,7
+7,Santa Monica Resorte,3,http://www.tripadvisor.in/Hotel_Review-g306995-d315561-Reviews-Santa_Monica_Resorte-Calangute_Goa.html,6,3.5,3.5,3.5,3.5,3.5,3.5,1.9,1.2,3.9
+8,Fortune Select Regina,4,http://www.tripadvisor.in/Hotel_Review-g297605-d1657397-Reviews-Fortune_Select_Regina-Candolim_Bardez_Goa.html,8,4,4.5,4.5,4.5,4,4.5,3.9,0,7.7
+9,Beleza...by the beach,4,http://www.tripadvisor.in/Hotel_Review-g1925961-d1380347-Reviews-Beleza_by_the_beach-Betalbatim_Salcette_District_Goa.html,8,4.5,4.5,4.5,4.5,4.5,4.5,3.5,0.2,7
+10,Jasminn by Mango Hotels,3,http://www.tripadvisor.in/Hotel_Review-g1925961-d1150049-Reviews-Jasminn_by_Mango_Hotels-Betalbatim_Salcette_District_Goa.html,8,4,4.5,4.5,4.5,4.5,4.5,3.6,0.4,7.2
+11,The Park Calangute Goa,4.5,http://www.tripadvisor.in/Hotel_Review-g306995-d2521803-Reviews-The_Park_Calangute_Goa-Calangute_Goa.html,7,4.5,4,4,4,3.5,3.5,3.3,1.4,6.7
+12,Royal Palms,3,http://www.tripadvisor.in/Hotel_Review-g306994-d306825-Reviews-Royal_Palms-Benaulim_Goa.html,6,3.5,4,3.5,3.5,3.5,3.5,2.5,0.2,4.9
+13,Fahrenheit Hotels and Resorts,3,http://www.tripadvisor.in/Hotel_Review-g306995-d2073429-Reviews-Fahrenheit_Hotels_and_Resorts-Calangute_Goa.html,8,4.5,4.5,4.5,4.5,4.5,4.5,3.5,0.2,7
+14,Lazylagoon Sarovar Portico Suites,3.5,http://www.tripadvisor.in/Hotel_Review-g635747-d939049-Reviews-Lazylagoon_Sarovar_Portico_Suites-Baga_Goa.html,8,4,4.5,4,4,4,4,3.6,0,7.3
+15,Deltin Suites,4,http://www.tripadvisor.in/Hotel_Review-g303877-d3946833-Reviews-Deltin_Suites-Panaji_Goa.html,8,4,4.5,4.5,4,4,4.5,4.1,0,8.2
+16,Radisson Blu Resort Goa Cavelossim Beach,4.5,http://www.tripadvisor.in/Hotel_Review-g775971-d2223100-Reviews-Radisson_Blu_Resort_Goa_Cavelossim_Beach-Cavelossim_Goa.html,8,4,4.5,4,4,4,4.5,3.8,0.5,7.6
+17,DoubleTree by Hilton Hotel Goa - Arpora - Baga,4,http://www.tripadvisor.in/Hotel_Review-g312680-d3370050-Reviews-DoubleTree_by_Hilton_Hotel_Goa_Arpora_Baga-Arpora_Goa.html,8,4,4,4,4,4,4,3.1,0.8,6.2
+18,Bogmallo Beach Resort,4,http://www.tripadvisor.in/Hotel_Review-g1092070-d307409-Reviews-Bogmallo_Beach_Resort-Bogmalo_Goa.html,7,4.5,4,4,3.5,3.5,4,3.5,0.2,6.9
+19,Dona Sylvia Beach Resort,4.5,http://www.tripadvisor.in/Hotel_Review-g775971-d478832-Reviews-Dona_Sylvia_Beach_Resort-Cavelossim_Goa.html,8,4.5,4,4,4.5,4,4.5,2.8,2.9,5.7
+20,Ondas do Mar Beach Resort,2.5,http://www.tripadvisor.in/Hotel_Review-g306995-d315554-Reviews-Ondas_do_Mar_Beach_Resort-Calangute_Goa.html,7,4,3.5,3.5,3.5,3.5,3.5,2.5,0,5.1
+21,Adamo The Bellus Goa,4,http://www.tripadvisor.in/Hotel_Review-g306995-d1958553-Reviews-Adamo_The_Bellus_Goa-Calangute_Goa.html,8,4.5,4,4,4,4,4,3,1,6.1
+22,Novotel Goa Shrem Resort,5,http://www.tripadvisor.in/Hotel_Review-g297605-d4748052-Reviews-Novotel_Goa_Shrem_Resort-Candolim_Bardez_Goa.html,8,4.5,4.5,4.5,4.5,4,4.5,3.8,1.4,7.5
+23,Club Mahindra Varca Beach,4,http://www.tripadvisor.in/Hotel_Review-g1096236-d317829-Reviews-Club_Mahindra_Varca_Beach-Varca_Goa.html,8,4,4,4,4,4,4,3.1,0.8,6.2
+24,Cavala Seaside Resort,3,http://www.tripadvisor.in/Hotel_Review-g635747-d501123-Reviews-Cavala_Seaside_Resort-Baga_Goa.html,7,4.5,3.5,3.5,3.5,4,3.5,2,1,4.1
+25,Azzure By Spree Hotels,4,http://www.tripadvisor.in/Hotel_Review-g306995-d3318582-Reviews-Azzure_By_Spree_Hotels-Calangute_Goa.html,8,4,4.5,4.5,4.5,4.5,4.5,3.6,0.2,7.2
+26,Spazio Leisure Resort,3,http://www.tripadvisor.in/Hotel_Review-g306992-d1819749-Reviews-Spazio_Leisure_Resort-Anjuna_Bardez_Goa.html,8,4,4.5,4.5,4.5,4.5,4.5,3.6,0.4,7.2
+27,Alila Diwa Goa,5,http://www.tripadvisor.in/Hotel_Review-g297606-d1553491-Reviews-Alila_Diwa_Goa-Salcette_District_Goa.html,8,4,4.5,4.5,4,4,4.5,4.1,0.8,8.2
+28,Acacia Goa,4,http://www.tripadvisor.in/Hotel_Review-g297605-d5040374-Reviews-Acacia_Goa-Candolim_Bardez_Goa.html,8,4.5,4.5,4.5,4.5,4.5,4.5,3.5,0.2,7
+29,Nazri Resort Hotel,3.5,http://www.tripadvisor.in/Hotel_Review-g635747-d1507434-Reviews-Nazri_Resort_Hotel-Baga_Goa.html,8,4.5,4,4,4,4,4,3,0.2,6.1
+30,Nagoa Grande Hotel,4,http://www.tripadvisor.in/Hotel_Review-g306993-d2571252-Reviews-Nagoa_Grande_Hotel-Bardez_Goa.html,7,3,4,4,3.5,3.5,3.5,2.7,1.7,5.4
+31,SinQ Beach Resort,3,http://www.tripadvisor.in/Hotel_Review-g306995-d1585470-Reviews-SinQ_Beach_Resort-Calangute_Goa.html,7,4,4,4,4,4,4,2.8,0,5.6
+32,Casablanca,3,http://www.tripadvisor.in/Hotel_Review-g297605-d315585-Reviews-Casablanca-Candolim_Bardez_Goa.html,8,4.5,4,4,4,4,4,3,0,6.1
+33,"The Golden Palms Hotel & Spa, Colva",4,http://www.tripadvisor.in/Hotel_Review-g1064392-d634618-Reviews-The_Golden_Palms_Hotel_Spa_Colva-Colva_Goa.html,7,3.5,4,4,3.5,3.5,4,3.2,0.6,6.3
+34,Nirvana Hermitage,3,http://www.tripadvisor.in/Hotel_Review-g306992-d736125-Reviews-Nirvana_Hermitage-Anjuna_Bardez_Goa.html,7,3.5,4,3.5,3.5,3.5,3.5,2.9,0,5.7
+35,Resort Lagoa Azul,3,http://www.tripadvisor.in/Hotel_Review-g635747-d498686-Reviews-Resort_Lagoa_Azul-Baga_Goa.html,7,4,4,4,4,4,4,2.8,0,5.6
+36,Mira Hotel,3,http://www.tripadvisor.in/Hotel_Review-g306995-d638169-Reviews-Mira_Hotel-Calangute_Goa.html,8,4.5,3.5,4,4,4,4,2.5,0.2,5
+37,Varca Palms Beach Resort,3,http://www.tripadvisor.in/Hotel_Review-g1096236-d589478-Reviews-Varca_Palms_Beach_Resort-Varca_Goa.html,6,4,3.5,3,3.5,3.5,3.5,2,1,4.1
+38,Golden Tulip Goa Candolim,4,http://www.tripadvisor.in/Hotel_Review-g297605-d3915602-Reviews-Golden_Tulip_Goa_Candolim-Candolim_Bardez_Goa.html,8,4,4.5,4.5,4.5,4.5,4.5,3.6,0.2,7.2
+39,Calangute Residency,2.5,http://www.tripadvisor.in/Hotel_Review-g306995-d1178946-Reviews-Calangute_Residency-Calangute_Goa.html,7,4.5,3.5,3.5,3,3.5,3,2.7,0,5.4
+40,Pride Sun Village Resort and Spa,3,http://www.tripadvisor.in/Hotel_Review-g312680-d477584-Reviews-Pride_Sun_Village_Resort_and_Spa-Arpora_Goa.html,7,3.5,4,3.5,4,3.5,4,3,0,5.9
+41,The O Hotel,4.5,http://www.tripadvisor.in/Hotel_Review-g297605-d1629283-Reviews-The_O_Hotel-Candolim_Bardez_Goa.html,7,4.5,4,4,4,4,4,2.8,2.9,5.7
+42,MAYFAIR Hideaway Spa Resort,4,http://www.tripadvisor.in/Hotel_Review-g297606-d2041908-Reviews-MAYFAIR_Hideaway_Spa_Resort-Salcette_District_Goa.html,8,3.5,4.5,4.5,4.5,4.5,4.5,3.7,0.1,7.4
+43,Rococco Ashvem,3,http://www.tripadvisor.in/Hotel_Review-g1015400-d1236035-Reviews-Rococco_Ashvem-Pernem_Goa.html,7,4.5,4,3.5,3.5,3.5,3.5,3.2,0,6.3
+44,Marquis Beach Resort,3,http://www.tripadvisor.in/Hotel_Review-g297605-d477602-Reviews-Marquis_Beach_Resort-Candolim_Bardez_Goa.html,7,4.5,4,3.5,3.5,3.5,4,3.2,0,6.4
+45,The Baga Marina,3.5,http://www.tripadvisor.in/Hotel_Review-g635747-d1552446-Reviews-The_Baga_Marina-Baga_Goa.html,8,4.5,4,4,4,4,4,3,0.2,6.1
+46,Sandalwood Hotel & Retreat,3.5,http://www.tripadvisor.in/Hotel_Review-g1087527-d1811897-Reviews-Sandalwood_Hotel_Retreat-Dona_Paula_Goa.html,8,4,4.5,4.5,4.5,4,4.5,3.9,0.2,7.7
+47,Majorda Beach Resort,3.5,http://www.tripadvisor.in/Hotel_Review-g1199433-d456139-Reviews-Majorda_Beach_Resort-Majorda_Goa.html,7,4,4,3.5,3.5,3.5,3.5,3,0.2,6.1
+48,10 Calangute,3.5,http://www.tripadvisor.in/Hotel_Review-g306995-d1180849-Reviews-10_Calangute-Calangute_Goa.html,8,4,4,4.5,4.5,4.5,4.5,3,0.2,6
+49,Heritage Village Club Goa,4,http://www.tripadvisor.in/Hotel_Review-g312681-d477582-Reviews-Heritage_Village_Club_Goa-Cansaulim_Goa.html,8,4,4.5,4,4.5,4.5,4.5,3.3,0.5,6.5
+50,"juSTa Panjim, Goa",3.5,http://www.tripadvisor.in/Hotel_Review-g303877-d4048619-Reviews-JuSTa_Panjim_Goa-Panaji_Goa.html,8,3.5,4.5,4.5,4.5,4.5,4.5,3.7,0,7.4
+51,Kenilworth Resort & Spa,4.5,http://www.tripadvisor.in/Hotel_Review-g1204863-d424404-Reviews-Kenilworth_Resort_Spa-Utorda_Goa.html,8,4.5,4.5,4,4,4,4.5,3.7,0.6,7.3
+52,Hotel Delmon,3,http://www.tripadvisor.in/Hotel_Review-g303877-d736517-Reviews-Hotel_Delmon-Panaji_Goa.html,7,4.5,4,4,4,4,3.5,2.8,0,5.6
+53,Hotel Calangute Towers,3,http://www.tripadvisor.in/Hotel_Review-g306995-d1523298-Reviews-Hotel_Calangute_Towers-Calangute_Goa.html,7,4,4,3.5,3.5,3.5,3.5,3,0,6.1
+54,The Banyan Soul,2.5,http://www.tripadvisor.in/Hotel_Review-g306992-d1380556-Reviews-The_Banyan_Soul-Anjuna_Bardez_Goa.html,8,4,4.5,4.5,4,4.5,4.5,3.9,2,7.8
+55,Renzo's Inn,2.5,http://www.tripadvisor.in/Hotel_Review-g306995-d1585655-Reviews-Renzo_s_Inn-Calangute_Goa.html,8,4.5,4.5,4.5,4.5,4.5,4.5,3.5,1,7
+56,"Royal Orchid Beach Resort & Spa, Goa",4.5,http://www.tripadvisor.in/Hotel_Review-g1204863-d1174318-Reviews-Royal_Orchid_Beach_Resort_Spa_Goa-Utorda_Goa.html,7,4,4,4,4,3.5,4,3.2,1.7,6.5
+57,Opus by the Verda,3.5,http://www.tripadvisor.in/Hotel_Review-g306992-d3914390-Reviews-Opus_by_the_Verda-Anjuna_Bardez_Goa.html,7,4,4,4,3.5,3.5,4,3.3,0,6.6
+58,Resorte Marinha Dourada,3,http://www.tripadvisor.in/Hotel_Review-g312680-d528422-Reviews-Resorte_Marinha_Dourada-Arpora_Goa.html,7,4,4,3.5,4,4,4,2.5,0.2,5.1
+59,Marbela Beach Resort,4,http://www.tripadvisor.in/Hotel_Review-g1936425-d1645431-Reviews-Marbela_Beach_Resort-Morjim_Goa.html,7,4,3.5,4,3.5,3.5,4,2.8,1.4,5.5
+60,Colonia Santa Maria (CSM),3,http://www.tripadvisor.in/Hotel_Review-g635747-d498688-Reviews-Colonia_Santa_Maria_CSM-Baga_Goa.html,7,4.5,4,3.5,4,4,4,2.5,0.2,5
+61,Banyan Tree Courtyard,2.5,http://www.tripadvisor.in/Hotel_Review-g297605-d1393057-Reviews-Banyan_Tree_Courtyard-Candolim_Bardez_Goa.html,7,4,4,3.5,4,4,4,2.5,0,5.1
+62,Acacia Palms Resort,4,http://www.tripadvisor.in/Hotel_Review-g1064392-d6420076-Reviews-Acacia_Palms_Resort-Colva_Goa.html,8,4.5,4.5,4.5,4,4.5,4.5,3.8,0,7.6
+63,Royal Haathi Mahal,3.5,http://www.tripadvisor.in/Hotel_Review-g775971-d477621-Reviews-Royal_Haathi_Mahal-Cavelossim_Goa.html,8,4,4,4,4,4,4,3.1,0.2,6.2
+64,"Goa - Villagio, A Sterling Holidays Resort",3.5,http://www.tripadvisor.in/Hotel_Review-g1925961-d2013657-Reviews-Goa_Villagio_A_Sterling_Holidays_Resort-Betalbatim_Salcette_District_Goa.html,7,4,4.5,4,4,4,4.5,3.6,0,7.1
+65,Montego Bay Beach Village,3,http://www.tripadvisor.in/Hotel_Review-g1936425-d649622-Reviews-Montego_Bay_Beach_Village-Morjim_Goa.html,8,4.5,4,4,4,4,4,3,0,6.1
+66,Soul Vacation Resort and Spa,3.5,http://www.tripadvisor.in/Hotel_Review-g1064392-d641628-Reviews-Soul_Vacation_Resort_and_Spa-Colva_Goa.html,7,4,4,4,4,4,4,2.8,0.5,5.6
+67,Shanti Morada,4.5,http://www.tripadvisor.in/Hotel_Review-g3136739-d5892286-Reviews-Shanti_Morada-Saligao_Bardez_Goa.html,9,4.5,5,5,5,5,5,4.3,0,8.5
+68,The HQ,3.5,http://www.tripadvisor.in/Hotel_Review-g1204880-d2168572-Reviews-The_HQ-Vasco_da_Gama_Goa.html,8,4,4.5,4.5,4,4,4.5,4.1,0.4,8.2
+69,Highland Beach Resort,3,http://www.tripadvisor.in/Hotel_Review-g297605-d315627-Reviews-Highland_Beach_Resort-Candolim_Bardez_Goa.html,7,4,3.5,3.5,3.5,4,3.5,2,1,3.9
+70,Riva Beach Resort,3.5,http://www.tripadvisor.in/Hotel_Review-g1010240-d953464-Reviews-Riva_Beach_Resort-Mandrem_Goa.html,7,4.5,4,3.5,3.5,3.5,3.5,3.2,0.1,6.3
+71,Hotel Bonanza,2.5,http://www.tripadvisor.in/Hotel_Review-g635747-d1144731-Reviews-Hotel_Bonanza-Baga_Goa.html,8,5,4,4,4.5,4.5,4.5,2.2,0.1,4.5
+72,Carina Beach Resort,2,http://www.tripadvisor.in/Hotel_Review-g306994-d806708-Reviews-Carina_Beach_Resort-Benaulim_Goa.html,7,3.5,3.5,3.5,3.5,3.5,4,2.5,0.2,5
+73,Hotel Colva Kinara,3,http://www.tripadvisor.in/Hotel_Review-g1064392-d1734243-Reviews-Hotel_Colva_Kinara-Colva_Goa.html,7,4,4,4,3.5,4,4,2.9,0,5.8
+74,The Crown Goa,4,http://www.tripadvisor.in/Hotel_Review-g303877-d1797775-Reviews-The_Crown_Goa-Panaji_Goa.html,7,4,4,4,3.5,3.5,4,3.3,0.5,6.6
+75,Grand Mercure Goa Shrem Resort,5,http://www.tripadvisor.in/Hotel_Review-g297605-d6499143-Reviews-Grand_Mercure_Goa_Shrem_Resort-Candolim_Bardez_Goa.html,9,4.5,4.5,4.5,4.5,4.5,5,3.7,1.7,7.5
+76,Bougainvillea Guest House Goa,3.5,http://www.tripadvisor.in/Hotel_Review-g297605-d1575279-Reviews-Bougainvillea_Guest_House_Goa-Candolim_Bardez_Goa.html,9,4.5,5,5,5,5,5,4.3,0.6,8.5
+77,Hotel Fidalgo,3.5,http://www.tripadvisor.in/Hotel_Review-g303877-d594977-Reviews-Hotel_Fidalgo-Panaji_Goa.html,7,4.5,4,4,4,3.5,4,3.3,0,6.7
+78,Casa Vagator,3.5,http://www.tripadvisor.in/Hotel_Review-g1204883-d1018485-Reviews-Casa_Vagator-Vagator_Goa.html,7,4.5,4,4,3.5,3.5,3.5,3.4,0,6.8
+79,LivingRoom by Seasons,4,http://www.tripadvisor.in/Hotel_Review-g1204883-d2240978-Reviews-LivingRoom_by_Seasons-Vagator_Goa.html,8,4,4.5,4.5,4.5,4,4.5,3.9,0,7.7
+80,Silver Sands Holiday Village,3,http://www.tripadvisor.in/Hotel_Review-g297605-d636610-Reviews-Silver_Sands_Holiday_Village-Candolim_Bardez_Goa.html,7,5,4,3.5,4,4,4,2.5,0.2,4.9
+81,Leoney Resort,3,http://www.tripadvisor.in/Hotel_Review-g1204883-d1015639-Reviews-Leoney_Resort-Vagator_Goa.html,7,4,4,4,3.5,4,4,2.9,0,5.8
+82,WelcomHeritage Panjim Inn,3,http://www.tripadvisor.in/Hotel_Review-g303877-d425691-Reviews-WelcomHeritage_Panjim_Inn-Panaji_Goa.html,8,4.5,4,4,4,4,4.5,3.1,0,6.2
+83,"The Fern Gardenia Resort, Canacona",3,http://www.tripadvisor.in/Hotel_Review-g306996-d1906397-Reviews-The_Fern_Gardenia_Resort_Canacona-Canacona_Goa.html,8,4,4.5,4,4,4,4.5,3.8,0.6,7.6
+84,Sukhmantra Resort and Spa,3.5,http://www.tripadvisor.in/Hotel_Review-g297605-d2517469-Reviews-Sukhmantra_Resort_and_Spa-Candolim_Bardez_Goa.html,7,3.5,4,3.5,3.5,3.5,4,3,0.2,6.1
+85,Sonesta Inns,3,http://www.tripadvisor.in/Hotel_Review-g297605-d315628-Reviews-Sonesta_Inns-Candolim_Bardez_Goa.html,7,4,4,4,4,4,4,2.8,0,5.6
+86,360 Degree Beach Retreat,3.5,http://www.tripadvisor.in/Hotel_Review-g297605-d1404886-Reviews-360_Degree_Beach_Retreat-Candolim_Bardez_Goa.html,7,4.5,4.5,4,4,4,4,3.4,0,6.9
+87,Country Inn & Suites By Carlson - Goa Panjim,4,http://www.tripadvisor.in/Hotel_Review-g303877-d4412908-Reviews-Country_Inn_Suites_By_Carlson_Goa_Panjim-Panaji_Goa.html,7,4,4.5,4,4,4,4.5,3.6,0.2,7.1
+88,Godwin Hotel,4,http://www.tripadvisor.in/Hotel_Review-g297605-d2305108-Reviews-Godwin_Hotel-Candolim_Bardez_Goa.html,7,4,4,4,3.5,4,4,2.9,1.2,5.8
+89,Best Western Devasthali Resort Goa,4,http://www.tripadvisor.in/Hotel_Review-g312681-d1858792-Reviews-Best_Western_Devasthali_Resort_Goa-Cansaulim_Goa.html,7,3.5,4,4,4,3.5,4,3.1,0.8,6.3
+90,Joecons Beach Resort,3.5,http://www.tripadvisor.in/Hotel_Review-g306994-d1601250-Reviews-Joecons_Beach_Resort-Benaulim_Goa.html,8,4,4.5,4.5,4.5,4.5,4.5,3.6,0,7.2
+91,Hotel Laguna Anjuna,3,http://www.tripadvisor.in/Hotel_Review-g306992-d305247-Reviews-Hotel_Laguna_Anjuna-Anjuna_Bardez_Goa.html,7,4,3.5,4,4,4,3.5,2.1,0.8,4.2
+92,Victor Exotica Beach Resort,4,http://www.tripadvisor.in/Hotel_Review-g297605-d315599-Reviews-Victor_Exotica_Beach_Resort-Candolim_Bardez_Goa.html,8,4,4,4,4,4,4.5,3.2,0.6,6.4
+93,Ruffles Beach Resort,3,http://www.tripadvisor.in/Hotel_Review-g297605-d1009367-Reviews-Ruffles_Beach_Resort-Candolim_Bardez_Goa.html,7,4,4,3.5,3.5,4,3.5,2.5,0.2,5.1
+94,Vila Goesa Beach Resort,2,http://www.tripadvisor.in/Hotel_Review-g635747-d1161436-Reviews-Vila_Goesa_Beach_Resort-Baga_Goa.html,7,4.5,3.5,3.5,3.5,3.5,3.5,2.7,0.5,5.3
+95,La Sunila Clarks Inn Suites,3.5,http://www.tripadvisor.in/Hotel_Review-g312680-d5503821-Reviews-La_Sunila_Clarks_Inn_Suites-Arpora_Goa.html,9,4.5,5,5,4.5,5,5,4.7,1.4,9.4
+96,Graciano Cottages,2,http://www.tripadvisor.in/Hotel_Review-g1064392-d734422-Reviews-Graciano_Cottages-Colva_Goa.html,7,4.5,4,3.5,4,4,4,2.5,0.2,5
+97,La Oasis by The Verda Anjuna,3,http://www.tripadvisor.in/Hotel_Review-g306992-d1719772-Reviews-La_Oasis_by_The_Verda_Anjuna-Anjuna_Bardez_Goa.html,7,4,4,4,3.5,3.5,3.5,3.2,0,6.4
+98,Alegria - The Goan Village,2.5,http://www.tripadvisor.in/Hotel_Review-g297605-d1052710-Reviews-Alegria_The_Goan_Village-Candolim_Bardez_Goa.html,7,4.5,4,4,4,4,4,2.8,0.1,5.7
+99,Amigo Plaza,2.5,http://www.tripadvisor.in/Hotel_Review-g297606-d1584885-Reviews-Amigo_Plaza-Salcette_District_Goa.html,8,4.5,4,4,4.5,4,4,2.8,0.1,5.6
+100,Mykonos Blu,3.5,http://www.tripadvisor.in/Hotel_Review-g635747-d1651471-Reviews-Mykonos_Blu-Baga_Goa.html,8,4.5,4.5,4.5,4,4,4.5,4,0.2,8.1
+101,Hotel Santiago,2.5,http://www.tripadvisor.in/Hotel_Review-g306995-d664396-Reviews-Hotel_Santiago-Calangute_Goa.html,8,4,4,3.5,4.5,4,4,2.6,0,5.2
+102,Aldeia Santa Rita,3,http://www.tripadvisor.in/Hotel_Review-g297605-d315584-Reviews-Aldeia_Santa_Rita-Candolim_Bardez_Goa.html,8,4,4,3.5,4.5,4.5,4.5,2.3,0.5,4.6
+103,Old Goa Residency,2.5,http://www.tripadvisor.in/Hotel_Review-g1584785-d1585583-Reviews-Old_Goa_Residency-Ponda_Goa.html,6,4,3.5,3.5,3.5,4,3.5,1.6,0.8,3.2
+104,Annapurna Vishram Dhaam,2.5,http://www.tripadvisor.in/Hotel_Review-g306993-d2303679-Reviews-Annapurna_Vishram_Dhaam-Bardez_Goa.html,8,4,4.5,4.5,4,4.5,4.5,3.9,2,7.8
+105,Lambana Resort,3,http://www.tripadvisor.in/Hotel_Review-g306995-d1206668-Reviews-Lambana_Resort-Calangute_Goa.html,8,4.5,3.5,4,4,4.5,4.5,2.1,0.8,4.3
+106,Palolem Inn,3.5,http://www.tripadvisor.in/Hotel_Review-g2334950-d7159695-Reviews-Palolem_Inn-Palolem_Canacona_Goa.html,7,5,3,3.5,3,4,3.5,1.6,3.6,3.3
+107,Marigold,3,http://www.tripadvisor.in/Hotel_Review-g303877-d1585539-Reviews-Marigold-Panaji_Goa.html,7,4.5,4,4,3.5,3.5,4,3.5,0.2,6.9
+108,Casa Colvale,3.5,http://www.tripadvisor.in/Hotel_Review-g306993-d618402-Reviews-Casa_Colvale-Bardez_Goa.html,8,4.5,4.5,4.5,4.5,4,4.5,3.8,0.1,7.5
+109,Joia Do Mar Resort,3,http://www.tripadvisor.in/Hotel_Review-g306995-d2153543-Reviews-Joia_Do_Mar_Resort-Calangute_Goa.html,6,4,4,4,3.5,4,4,2.6,0.2,5.2
+110,Horizon,3,http://www.tripadvisor.in/Hotel_Review-g306995-d315542-Reviews-Horizon-Calangute_Goa.html,8,4,4,4,4.5,4.5,4,2.5,0.2,5
+111,Nilaya Hermitage,3,http://www.tripadvisor.in/Hotel_Review-g312680-d307001-Reviews-Nilaya_Hermitage-Arpora_Goa.html,8,4.5,4.5,5,4.5,4,5,4.3,1.7,8.5
+112,The Diwa Club by Alila,5,http://www.tripadvisor.in/Hotel_Review-g1199433-d6160815-Reviews-The_Diwa_Club_by_Alila-Majorda_Goa.html,9,4,5,5,4.5,4.5,5,5,0,10
+113,Celestiial Boutique Hotel,4,http://www.tripadvisor.in/Hotel_Review-g297605-d6847514-Reviews-Celestiial_Boutique_Hotel-Candolim_Bardez_Goa.html,8,5,4.5,4.5,4,4,4.5,4,0,7.9
+114,Sapphire Comfort Hotel,3,http://www.tripadvisor.in/Hotel_Review-g1152662-d2058556-Reviews-Sapphire_Comfort_Hotel-Margao_Goa.html,7,4,4,4,3.5,4,4,2.9,0,5.8
+115,Prainha,3.5,http://www.tripadvisor.in/Hotel_Review-g1087527-d498687-Reviews-Prainha-Dona_Paula_Goa.html,7,4,4,4,3.5,4,4,2.9,0.4,5.8
+116,Hotel Astoria,2,http://www.tripadvisor.in/Hotel_Review-g1025163-d1159936-Reviews-Hotel_Astoria-Assagao_Bardez_Goa.html,8,4,4,3.5,4.5,4.5,4,2.2,0,4.4
+117,Martin's Comfort,3,http://www.tripadvisor.in/Hotel_Review-g297606-d1222881-Reviews-Martin_s_Comfort-Salcette_District_Goa.html,8,4,4.5,4.5,4.5,4.5,4.5,3.6,0.4,7.2
+118,Lui Beach Resort,2.5,http://www.tripadvisor.in/Hotel_Review-g297605-d664399-Reviews-Lui_Beach_Resort-Candolim_Bardez_Goa.html,7,4,3.5,3.5,4,4,4,2,0.2,3.9
+119,Coconut Creek,3.5,http://www.tripadvisor.in/Hotel_Review-g1092070-d307318-Reviews-Coconut_Creek-Bogmalo_Goa.html,8,4,4.5,4.5,4.5,4,4.5,3.9,0.2,7.7
+120,The Sofala,4,http://www.tripadvisor.in/Hotel_Review-g306993-d1774347-Reviews-The_Sofala-Bardez_Goa.html,7,3.5,4,4,4,4,4,2.7,1.7,5.4
+121,L'Hotel Eden,3.5,http://www.tripadvisor.in/Hotel_Review-g1087527-d2235246-Reviews-L_Hotel_Eden-Dona_Paula_Goa.html,7,3.5,4.5,4.5,4,4,4.5,3.8,0.1,7.6
+122,Chances Resort and Casino,3.5,http://www.tripadvisor.in/Hotel_Review-g1087527-d4790311-Reviews-Chances_Resort_and_Casino-Dona_Paula_Goa.html,7,3,4,4,3.5,3.5,4,3,0.2,5.9
+123,Coconut Grove,3,http://www.tripadvisor.in/Hotel_Review-g297606-d584367-Reviews-Coconut_Grove-Salcette_District_Goa.html,7,4,4,4,3.5,3.5,4,3.3,0.1,6.6
+124,Hotel Failaka,2.5,http://www.tripadvisor.in/Hotel_Review-g297606-d1157804-Reviews-Hotel_Failaka-Salcette_District_Goa.html,8,3.5,3.5,4,4.5,4.5,4.5,2.2,0.1,4.4
+125,Hotel La Capitol,3,http://www.tripadvisor.in/Hotel_Review-g303877-d1158443-Reviews-Hotel_La_Capitol-Panaji_Goa.html,7,4.5,4,3.5,3.5,4,3.5,2.6,0.2,5.2
+126,Banyan Tree Yoga Goa,2.5,http://www.tripadvisor.in/Hotel_Review-g1010240-d6201087-Reviews-Banyan_Tree_Yoga_Goa-Mandrem_Goa.html,9,5,5,5,5,5,5,3.9,2,7.9
+127,A's Holiday Beach Resort,3,http://www.tripadvisor.in/Hotel_Review-g1925961-d1584897-Reviews-A_s_Holiday_Beach_Resort-Betalbatim_Salcette_District_Goa.html,8,4.5,4.5,4.5,4,4.5,4.5,3.8,0.6,7.6
+128,Safira River Front Resort,4,http://www.tripadvisor.in/Hotel_Review-g1936425-d2451584-Reviews-Safira_River_Front_Resort-Morjim_Goa.html,9,4.5,4.5,4.5,4,4.5,4.5,4,0,7.9
+129,Palacete Rodrigues,3,http://www.tripadvisor.in/Hotel_Review-g306992-d306987-Reviews-Palacete_Rodrigues-Anjuna_Bardez_Goa.html,7,3.5,3.5,3.5,3.5,3.5,3.5,2.4,0.4,4.7
+130,Acron Waterfront Resort,3.5,http://www.tripadvisor.in/Hotel_Review-g635747-d7289335-Reviews-Acron_Waterfront_Resort-Baga_Goa.html,10,4.5,4.5,4.5,4.5,4.5,4.5,3.7,0,7.5
+131,Kingstork Beach Resort,3,http://www.tripadvisor.in/Hotel_Review-g306995-d654948-Reviews-Kingstork_Beach_Resort-Calangute_Goa.html,9,4,4.5,4.5,4.5,4.5,4.5,3.8,0.6,7.7
+132,Devaaya Ayurveda Retreat,3.5,http://www.tripadvisor.in/Hotel_Review-g1152676-d736613-Reviews-Devaaya_Ayurveda_Retreat-Divar_Island_Goa.html,8,3.5,4,3.5,3.5,4,4,3,0.2,6
+133,Abalone Resort,2.5,http://www.tripadvisor.in/Hotel_Review-g312680-d664417-Reviews-Abalone_Resort-Arpora_Goa.html,7,4.5,3.5,3.5,4,4,3.5,2,0.2,3.9
+134,Verca le Palms Beach Resort,2.5,http://www.tripadvisor.in/Hotel_Review-g297606-d1213497-Reviews-Verca_le_Palms_Beach_Resort-Salcette_District_Goa.html,7,4,3.5,3,4,4,3.5,1.7,0.6,3.4
+135,William's Beach Retreat,2,http://www.tripadvisor.in/Hotel_Review-g1064392-d784701-Reviews-William_s_Beach_Retreat-Colva_Goa.html,6,3.5,4.5,4.5,4,3.5,4.5,3.7,2.9,7.4
+136,Casa Britona,3.5,http://www.tripadvisor.in/Hotel_Review-g306993-d504694-Reviews-Casa_Britona-Bardez_Goa.html,8,4,4.5,4,3.5,4,4.5,4,0.2,8.1
+137,Surya Sangolda,3,http://www.tripadvisor.in/Hotel_Review-g2204495-d1158495-Reviews-Surya_Sangolda-Sangolda_Bardez_Goa.html,8,4.5,3.5,3.5,3.5,4,3.5,2.3,0.5,4.6
+138,The Ronil Royale,3,http://www.tripadvisor.in/Hotel_Review-g306995-d734467-Reviews-The_Ronil_Royale-Calangute_Goa.html,7,4,3,3,3.5,3.5,3.5,1.9,1.2,3.8
+139,Mobor Beach Resort,2,http://www.tripadvisor.in/Hotel_Review-g297606-d644889-Reviews-Mobor_Beach_Resort-Salcette_District_Goa.html,6,4,4,4,4,3.5,4,3,1,6
+140,All Season's Goa,2.5,http://www.tripadvisor.in/Hotel_Review-g297605-d1022549-Reviews-All_Season_s_Goa-Candolim_Bardez_Goa.html,7,4.5,4.5,4.5,5,4.5,5,3.2,0.5,6.3
+141,Pousada Tauma,4,http://www.tripadvisor.in/Hotel_Review-g306995-d317490-Reviews-Pousada_Tauma-Calangute_Goa.html,9,4,4,3.5,4,4,4,3.1,0.8,6.1
+142,Sterling Goa India Days Inn,3,http://www.tripadvisor.in/Hotel_Review-g1438385-d300949-Reviews-Sterling_Goa_India_Days_Inn-Mapusa_Goa.html,7,4,3.5,3.5,3.5,3.5,3.5,2.5,0.2,5.1
+143,Estrela Do Mar Beach Resort,3,http://www.tripadvisor.in/Hotel_Review-g306995-d637648-Reviews-Estrela_Do_Mar_Beach_Resort-Calangute_Goa.html,6,4.5,3.5,3.5,4,4,4.5,1.8,1.4,3.5
+144,Empire Beach Resort Hotel,2,http://www.tripadvisor.in/Hotel_Review-g306995-d1179482-Reviews-Empire_Beach_Resort_Hotel-Calangute_Goa.html,8,3,3.5,3.5,3.5,3.5,3.5,2.7,0.5,5.3
+145,"Goa - Club Estadia, A Sterling Holidays Resort",2.5,http://www.tripadvisor.in/Hotel_Review-g1962903-d735815-Reviews-Goa_Club_Estadia_A_Sterling_Holidays_Resort-Alto_Porvorim_Goa.html,6,4.5,3.5,3,3,3,3,3,0.2,6
+146,Longuinhos Beach Resort,3,http://www.tripadvisor.in/Hotel_Review-g1064392-d1159608-Reviews-Longuinhos_Beach_Resort-Colva_Goa.html,6,3.5,4,3.5,3.5,3.5,3.5,2.5,0.2,4.9
+147,Baywatch Beach Resort,3.5,http://www.tripadvisor.in/Hotel_Review-g1064392-d739264-Reviews-Baywatch_Beach_Resort-Colva_Goa.html,6,4,4,3.5,3.5,3.5,3.5,2.7,0.6,5.5
+148,Lotus Beach Resort,2.5,http://www.tripadvisor.in/Hotel_Review-g306994-d1405119-Reviews-Lotus_Beach_Resort-Benaulim_Goa.html,6,4.5,3.5,3,3.5,3.5,3.5,2.2,0.1,4.4
+149,The Byke Old Anchor Resort,3,http://www.tripadvisor.in/Hotel_Review-g775971-d735390-Reviews-The_Byke_Old_Anchor_Resort-Cavelossim_Goa.html,6,4.5,4,4.5,4,4,4,2.9,0,5.9
+150,Aguada Hermitage,4.5,http://www.tripadvisor.in/Hotel_Review-g1165042-d317834-Reviews-Aguada_Hermitage-Sinquerim_Goa.html,8,4.5,3.5,3.5,3.5,3.5,3.5,2.9,2.6,5.8
+151,Hotel Mandovi,3,http://www.tripadvisor.in/Hotel_Review-g303877-d477614-Reviews-Hotel_Mandovi-Panaji_Goa.html,6,4,3.5,3,3,3.5,3,2,1,3.9
+152,Farmagudi Residency,3,http://www.tripadvisor.in/Hotel_Review-g1584785-d1585042-Reviews-Farmagudi_Residency-Ponda_Goa.html,6,4.5,3,3,3,3,3,2.6,0.2,5.2
+153,Paradise Village Beach Resort,3,http://www.tripadvisor.in/Hotel_Review-g306995-d651255-Reviews-Paradise_Village_Beach_Resort-Calangute_Goa.html,6,3.5,3.5,3,3,3,3,2.4,0.4,4.7
+154,Bambolim Beach Resort,3,http://www.tripadvisor.in/Hotel_Review-g303877-d536221-Reviews-Bambolim_Beach_Resort-Panaji_Goa.html,5,4.5,3.5,3.5,3.5,4,3.5,1.5,2.2,2.9
+155,Calangute Annex,2.5,http://www.tripadvisor.in/Hotel_Review-g306995-d1584928-Reviews-Calangute_Annex-Calangute_Goa.html,6,4,3,3.5,3,3,3,2.3,0,4.6
+156,Casa Baga,3.5,http://www.tripadvisor.in/Hotel_Review-g306993-d618400-Reviews-Casa_Baga-Bardez_Goa.html,6,4.5,4.5,4.5,3.5,4,3.5,3.4,0,6.9
+157,Boomerang Resort,3,http://www.tripadvisor.in/Hotel_Review-g1010240-d6368925-Reviews-Boomerang_Resort-Mandrem_Goa.html,6,4,3,3,3,3.5,3,1.5,2.2,2.9
+158,Lua Nova Hotel,2,http://www.tripadvisor.in/Hotel_Review-g306995-d1157889-Reviews-Lua_Nova_Hotel-Calangute_Goa.html,6,4.5,3.5,3,3.5,3.5,3,2.3,0.1,4.5
+159,Ticlo Resorts,2,http://www.tripadvisor.in/Hotel_Review-g306995-d638305-Reviews-Ticlo_Resorts-Calangute_Goa.html,6,3.5,3.5,3.5,3.5,3.5,3.5,1.9,0,3.9
+160,Alor Holiday Resort,3,http://www.tripadvisor.in/Hotel_Review-g306995-d636603-Reviews-Alor_Holiday_Resort-Calangute_Goa.html,6,4,3,3,3,3,3,2.3,0.5,4.6
+161,Sea Shore Beach Resort,2.5,http://www.tripadvisor.in/Hotel_Review-g306995-d1158764-Reviews-Sea_Shore_Beach_Resort-Calangute_Goa.html,6,4,3,3,2.5,3.5,3,1.3,1.4,2.6
+162,Seabreeze Resort,2,http://www.tripadvisor.in/Hotel_Review-g306993-d967030-Reviews-Seabreeze_Resort-Bardez_Goa.html,6,4,3.5,3,3.5,3.5,3.5,2,0,4.1
+163,Colonia de Braganza Resorts,3,http://www.tripadvisor.in/Hotel_Review-g306995-d578426-Reviews-Colonia_de_Braganza_Resorts-Calangute_Goa.html,6,3.5,2.5,3,3.5,3.5,3,0.9,4.4,1.8
+164,Prazeres Resorts,2,http://www.tripadvisor.in/Hotel_Review-g297605-d315631-Reviews-Prazeres_Resorts-Candolim_Bardez_Goa.html,6,4.5,3,3.5,3.5,4,3.5,1.2,0.6,2.4
+165,Lucky Star Hotel,3,http://www.tripadvisor.in/Hotel_Review-g1064392-d1112982-Reviews-Lucky_Star_Hotel-Colva_Goa.html,6,3,3,3,3,3,3,1.6,2,3.2
+166,Goveia Holiday Homes,3.5,http://www.tripadvisor.in/Hotel_Review-g297605-d1156233-Reviews-Goveia_Holiday_Homes-Candolim_Bardez_Goa.html,6,4.5,3.5,3,3,3.5,3,2.2,1.7,4.4
+167,Colva Residency,3,http://www.tripadvisor.in/Hotel_Review-g1064392-d1191484-Reviews-Colva_Residency-Colva_Goa.html,6,3,3,2.5,2.5,2.5,2.5,2.3,0.5,4.7
+168,Maizons Lake View Resorts,3,http://www.tripadvisor.in/Hotel_Review-g312680-d582618-Reviews-Maizons_Lake_View_Resorts-Arpora_Goa.html,5,4,3,3,2.5,3.5,3,0.8,4.8,1.7
+169,Mayem Lake View,3,http://www.tripadvisor.in/Hotel_Review-g1888179-d1520644-Reviews-Mayem_Lake_View-Bicholim_Goa.html,6,3.5,3.5,3.5,3,3.5,3.5,1.8,1.4,3.7
+170,Goa Beach House,2,http://www.tripadvisor.in/Hotel_Review-g1096236-d736272-Reviews-Goa_Beach_House-Varca_Goa.html,6,4,3.5,3,3,3.5,3.5,2,0,4
+171,Sun Park Resort,2,http://www.tripadvisor.in/Hotel_Review-g306995-d1148152-Reviews-Sun_Park_Resort-Calangute_Goa.html,6,4,3,3,3,3,3,2.3,0.1,4.6
+172,Alor Grande Holiday Resort,3,http://www.tripadvisor.in/Hotel_Review-g297605-d315588-Reviews-Alor_Grande_Holiday_Resort-Candolim_Bardez_Goa.html,5,4,3,2.5,3.5,3,3,2,1,4.1
+173,Hotel Dona Terezinha,2,http://www.tripadvisor.in/Hotel_Review-g306995-d315541-Reviews-Hotel_Dona_Terezinha-Calangute_Goa.html,5,3.5,3,2.5,2.5,3.5,2.5,0.4,2.6,0.7
+174,Colonia Jose' Menino Resort,2.5,http://www.tripadvisor.in/Hotel_Review-g1096236-d633717-Reviews-Colonia_Jose_Menino_Resort-Varca_Goa.html,5,2.5,3.5,3,3.5,4,3,0,6.2,0
+175,Hotel Surya Palace,2.5,http://www.tripadvisor.in/Hotel_Review-g297604-d3170808-Reviews-Hotel_Surya_Palace-Goa.html,6,3.5,4,3.5,3.5,3.5,3.5,2.5,0,4.9
+176,La Gulls Court,3,http://www.tripadvisor.in/Hotel_Review-g1204883-d1648069-Reviews-La_Gulls_Court-Vagator_Goa.html,6,4,3.5,3,3.5,3.5,3,2,1,4.1
+177,Sharanam Green,3,http://www.tripadvisor.in/Hotel_Review-g306995-d657974-Reviews-Sharanam_Green-Calangute_Goa.html,6,4,4,3,3.5,4,3.5,2,1,4
+178,Alagoa Resort,3,http://www.tripadvisor.in/Hotel_Review-g1925961-d637647-Reviews-Alagoa_Resort-Betalbatim_Salcette_District_Goa.html,6,3.5,3.5,3.5,3,3.5,3,1.7,1.7,3.3
+179,Hotel Supreme,3,http://www.tripadvisor.in/Hotel_Review-g1204880-d1149996-Reviews-Hotel_Supreme-Vasco_da_Gama_Goa.html,6,4,3,3,3,3,3.5,2.2,0.6,4.5
+180,Gaffino's Beach Resort,2,http://www.tripadvisor.in/Hotel_Review-g775971-d1006727-Reviews-Gaffino_s_Beach_Resort-Cavelossim_Goa.html,6,5,4,3,4,4,3.5,2,0,4
+181,Resorte Beira Mar,2.5,http://www.tripadvisor.in/Hotel_Review-g306995-d1179385-Reviews-Resorte_Beira_Mar-Calangute_Goa.html,6,3.5,3,3,3,3.5,3,1.2,1.7,2.3
+182,Summerville Beach Resort,2.5,http://www.tripadvisor.in/Hotel_Review-g297605-d315622-Reviews-Summerville_Beach_Resort-Candolim_Bardez_Goa.html,6,4,3,2.5,3,3,2.5,2.4,0,4.8
+183,Riverside Guest House,2.5,http://www.tripadvisor.in/Hotel_Review-g635747-d613074-Reviews-Riverside_Guest_House-Baga_Goa.html,6,3.5,3.5,3.5,3,3,3,2.3,0,4.7
+184,Sodder's Gloria Anne,3,http://www.tripadvisor.in/Hotel_Review-g297605-d736609-Reviews-Sodder_s_Gloria_Anne-Candolim_Bardez_Goa.html,5,4,3,3,3.5,3.5,3,1.2,3.2,2.3
+185,Resorte de Tio Carmino,3,http://www.tripadvisor.in/Hotel_Review-g306995-d604242-Reviews-Resorte_de_Tio_Carmino-Calangute_Goa.html,6,4.5,3,3,3,3,3,2.6,0.2,5.2
+186,Panaji Residency,2.5,http://www.tripadvisor.in/Hotel_Review-g303877-d1156248-Reviews-Panaji_Residency-Panaji_Goa.html,6,4,3,3,3,3,3,2.3,0,4.6
+187,Peninsula Beach Resort,3.5,http://www.tripadvisor.in/Hotel_Review-g306995-d1192891-Reviews-Peninsula_Beach_Resort-Calangute_Goa.html,5,3.5,3,3,3.5,3.5,3.5,0.9,6.8,1.8
+188,Valentines Retreat,2,http://www.tripadvisor.in/Hotel_Review-g297605-d578405-Reviews-Valentines_Retreat-Candolim_Bardez_Goa.html,6,4,2.5,2.5,3,3,2.5,2.1,0,4.2
+189,Resort Park Avenue,2.5,http://www.tripadvisor.in/Hotel_Review-g306995-d1052958-Reviews-Resort_Park_Avenue-Calangute_Goa.html,5,3.5,3.5,3.5,3,3,3.5,2,0.2,3.9
+190,Mapple Viva Goa,3,http://www.tripadvisor.in/Hotel_Review-g306995-d659535-Reviews-Mapple_Viva_Goa-Calangute_Goa.html,5,3,3,3,3,3.5,3,0.3,7.3,0.5
+191,Sodder's Renton Manor,3,http://www.tripadvisor.in/Hotel_Review-g312680-d599966-Reviews-Sodder_s_Renton_Manor-Arpora_Goa.html,5,3.5,3,3,3,3.5,3,0.6,5.8,1.3
+192,Maria Rosa Resort,2.5,http://www.tripadvisor.in/Hotel_Review-g306993-d305089-Reviews-Maria_Rosa_Resort-Bardez_Goa.html,5,4,3,3,3,3,3,1.9,0.4,3.7
+193,Sun City Resort,3,http://www.tripadvisor.in/Hotel_Review-g1204882-d1163396-Reviews-Sun_City_Resort-Saunta_Vaddo_Goa.html,5,4,3,2.5,3,3,3,1.8,1.4,3.7
+194,Hotel Germany,2.5,http://www.tripadvisor.in/Hotel_Review-g306995-d1154120-Reviews-Hotel_Germany-Calangute_Goa.html,5,3,3,2.5,2.5,3,3,0.9,2.6,1.7
+195,Hafh Resort,3,http://www.tripadvisor.in/Hotel_Review-g312680-d626922-Reviews-Hafh_Resort-Arpora_Goa.html,5,4,3.5,3,2.5,3,3,2.1,0.8,4.2
+196,Dolphin Bay Hotel,3,http://www.tripadvisor.in/Hotel_Review-g306993-d1162570-Reviews-Dolphin_Bay_Hotel-Bardez_Goa.html,5,3.5,3,3,3,3,3,1.5,2.2,2.9
+197,Nizmar Resort,4,http://www.tripadvisor.in/Hotel_Review-g306995-d307416-Reviews-Nizmar_Resort-Calangute_Goa.html,6,4,3,3,3,3,3,2.3,2.9,4.6
+198,Silver Sands Beach Resort,3,http://www.tripadvisor.in/Hotel_Review-g1064392-d1009167-Reviews-Silver_Sands_Beach_Resort-Colva_Goa.html,5,3.5,3,2.5,2.5,2.5,2.5,2.3,0.5,4.5
+199,Bollywood Sea Queen Beach Resort,2.5,http://www.tripadvisor.in/Hotel_Review-g297606-d634229-Reviews-Bollywood_Sea_Queen_Beach_Resort-Salcette_District_Goa.html,5,2.5,2.5,2.5,3,3,2.5,0.4,4.4,0.8
+200,Resort Village Royale,2.5,http://www.tripadvisor.in/Hotel_Review-g306995-d633723-Reviews-Resort_Village_Royale-Calangute_Goa.html,5,3,3,3,2.5,2.5,2.5,1.5,1,3.1
+201,Hotel Miramar,3,http://www.tripadvisor.in/Hotel_Review-g303877-d1149901-Reviews-Hotel_Miramar-Panaji_Goa.html,5,4,2.5,3,3,3,3,1.4,2.6,2.9
+202,Hotel Viva Goa International,3,http://www.tripadvisor.in/Hotel_Review-g303877-d1939108-Reviews-Hotel_Viva_Goa_International-Panaji_Goa.html,5,3,2.5,2,2.5,2.5,2,1.8,1.4,3.7
+203,Palm Resort,2,http://www.tripadvisor.in/Hotel_Review-g306995-d1227668-Reviews-Palm_Resort-Calangute_Goa.html,4,4,2.5,2.5,2.5,2.5,2.5,1.9,0,3.9
+204,Dona Alcina Resort,3,http://www.tripadvisor.in/Hotel_Review-g297605-d315592-Reviews-Dona_Alcina_Resort-Candolim_Bardez_Goa.html,5,4,2,2,2.5,2.5,2,2.6,0.2,5.2
+205,Hotel Manvin's,3,http://www.tripadvisor.in/Hotel_Review-g303877-d1162687-Reviews-Hotel_Manvin_s-Panaji_Goa.html,4,2.5,2.5,2,2.5,2,2,1.9,1.2,3.9
+206,Avantika Resort,2.5,http://www.tripadvisor.in/Hotel_Review-g306995-d664398-Reviews-Avantika_Resort-Calangute_Goa.html,4,3,3,2.5,2,2.5,2.5,0.7,3.2,1.4
+207,Kris Resort,2.5,http://www.tripadvisor.in/Hotel_Review-g306995-d777765-Reviews-Kris_Resort-Calangute_Goa.html,4,4,4,4,4,4,4,1.9,0.4,3.7
+208,The Zuri White Sands Goa Resort & Casino,4.5,http://www.tripadvisor.in/Hotel_Review-g1096236-d1519185-Reviews-The_Zuri_White_Sands_Goa_Resort_Casino-Varca_Goa.html,8,4,4.5,4,4,4,4.5,3.8,0.5,7.6
+209,Resort Terra Paraiso,3.5,http://www.tripadvisor.in/Hotel_Review-g306995-d1056079-Reviews-Resort_Terra_Paraiso-Calangute_Goa.html,8,4.5,4.5,4,4.5,4,4.5,3.4,0,6.8
+210,"Lemon Tree Amarante Beach Resort, Goa",4,http://www.tripadvisor.in/Hotel_Review-g297605-d622715-Reviews-Lemon_Tree_Amarante_Beach_Resort_Goa-Candolim_Bardez_Goa.html,8,4.5,4.5,4,4.5,4,4.5,3.4,0.4,6.8
+211,"Vivanta by Taj - Fort Aguada, Goa",5,http://www.tripadvisor.in/Hotel_Review-g1165042-d304837-Reviews-Vivanta_by_Taj_Fort_Aguada_Goa-Sinquerim_Goa.html,8,4.5,4,3.5,3.5,4,3.5,2.9,4.4,5.7
+212,Anup Holiday Homes,2.5,http://www.tripadvisor.in/Hotel_Review-g306995-d1204529-Reviews-Anup_Holiday_Homes-Calangute_Goa.html,7,4.5,4.5,4.5,4.5,4,4.5,3.7,1.4,7.3
+213,Goa Marriott Resort & Spa,5,http://www.tripadvisor.in/Hotel_Review-g303877-d307517-Reviews-Goa_Marriott_Resort_Spa-Panaji_Goa.html,8,4,4,4,4,4,4,3.1,3.6,6.2
+214,Ramada Caravela Beach Resort,4.5,http://www.tripadvisor.in/Hotel_Review-g1096236-d306969-Reviews-Ramada_Caravela_Beach_Resort-Varca_Goa.html,7,4.5,4.5,4.5,4.5,4.5,4.5,3.4,1.2,6.7
+215,Ocean Palms Goa,4,http://www.tripadvisor.in/Hotel_Review-g306995-d2259133-Reviews-Ocean_Palms_Goa-Calangute_Goa.html,8,4,4.5,4.5,4,4.5,4.5,3.9,0,7.8
+216,De Alturas Resort,4,http://www.tripadvisor.in/Hotel_Review-g297605-d4294816-Reviews-De_Alturas_Resort-Candolim_Bardez_Goa.html,8,4.5,4.5,4.5,4.5,4,4.5,3.8,0,7.5
+217,The Leela Goa,5,http://www.tripadvisor.in/Hotel_Review-g775971-d481825-Reviews-The_Leela_Goa-Cavelossim_Goa.html,9,4,3.5,3.5,3,3.5,3.5,3.2,3.2,6.5
+218,Neelams The Grand,3,http://www.tripadvisor.in/Hotel_Review-g306995-d605909-Reviews-Neelams_The_Grand-Calangute_Goa.html,6,3.5,3.5,4,4,4,4,1.7,1.7,3.5
+219,Palmarinha Resort,3,http://www.tripadvisor.in/Hotel_Review-g306995-d640206-Reviews-Palmarinha_Resort-Calangute_Goa.html,7,3.5,4,4,4,4.5,4,2.4,0.4,4.8
+220,Angels Resort,3,http://www.tripadvisor.in/Hotel_Review-g306993-d1205572-Reviews-Angels_Resort-Bardez_Goa.html,8,4.5,4.5,4,4.5,4,4.5,3.4,0.2,6.8
+221,Whispering Palms Beach Resort,3.5,http://www.tripadvisor.in/Hotel_Review-g297605-d315595-Reviews-Whispering_Palms_Beach_Resort-Candolim_Bardez_Goa.html,8,4.5,4.5,4.5,4.5,4.5,4.5,3.5,0,7
+222,Santana Beach Resort,3,http://www.tripadvisor.in/Hotel_Review-g297605-d651438-Reviews-Santana_Beach_Resort-Candolim_Bardez_Goa.html,8,4.5,4.5,4,4.5,4,4.5,3.4,0.2,6.8
+223,"Vivanta by Taj - Holiday Village, Goa",5,http://www.tripadvisor.in/Hotel_Review-g1165042-d304835-Reviews-Vivanta_by_Taj_Holiday_Village_Goa-Sinquerim_Goa.html,8,4,4,4,4,3.5,4,3.5,2.2,7
+224,Cidade de Goa,4,http://www.tripadvisor.in/Hotel_Review-g1087527-d307509-Reviews-Cidade_de_Goa-Dona_Paula_Goa.html,7,4,4.5,4.5,4.5,4.5,4.5,3.4,0.4,6.8
+225,Resort Rio,4.5,http://www.tripadvisor.in/Hotel_Review-g312680-d1758214-Reviews-Resort_Rio-Arpora_Goa.html,9,4.5,3.5,3.5,3.5,4,3.5,2.6,3.6,5.2
+226,Ancora Beach Resort,2.5,http://www.tripadvisor.in/Hotel_Review-g306995-d1158206-Reviews-Ancora_Beach_Resort-Calangute_Goa.html,6,4,3.5,3.5,3,3.5,3.5,2.1,0.2,4.3
+227,Tangerine Resort,3,http://www.tripadvisor.in/Hotel_Review-g306995-d1400955-Reviews-Tangerine_Resort-Calangute_Goa.html,6,4,4.5,4,4,4,4.5,3.3,0.1,6.7
+228,North 16 Goa,4,http://www.tripadvisor.in/Hotel_Review-g306995-d5485906-Reviews-North_16_Goa-Calangute_Goa.html,7,4.5,4.5,4.5,4.5,4,4.5,3.7,0.1,7.3
+229,Citrus Goa,3.5,http://www.tripadvisor.in/Hotel_Review-g306995-d1584943-Reviews-Citrus_Goa-Calangute_Goa.html,8,4,4.5,4,4,4,4.5,3.8,0.1,7.6
+230,The Tamarind Hotel,3.5,http://www.tripadvisor.in/Hotel_Review-g306992-d498684-Reviews-The_Tamarind_Hotel-Anjuna_Bardez_Goa.html,8,4,4.5,4.5,4,4,4.5,4.1,0.4,8.2
+231,Casa De Goa Boutique Resort,3.5,http://www.tripadvisor.in/Hotel_Review-g306995-d627572-Reviews-Casa_De_Goa_Boutique_Resort-Calangute_Goa.html,8,4.5,4,3.5,4,4,4,2.7,0.6,5.4
+232,Keys Resort-Ronil,3.5,http://www.tripadvisor.in/Hotel_Review-g635747-d477590-Reviews-Keys_Resort_Ronil-Baga_Goa.html,8,4.5,4.5,4.5,4.5,4.5,4.5,3.5,0,7
+233,Casa Severina,3.5,http://www.tripadvisor.in/Hotel_Review-g306995-d1652132-Reviews-Casa_Severina-Calangute_Goa.html,9,4,4,3.5,3.5,4,4,3.3,0,6.5
+234,Ginger Goa,3,http://www.tripadvisor.in/Hotel_Review-g303877-d1154544-Reviews-Ginger_Goa-Panaji_Goa.html,7,4,4,3.5,4,3.5,4,3,0,6
+235,Phoenix Park Inn Resort,3,http://www.tripadvisor.in/Hotel_Review-g297605-d306967-Reviews-Phoenix_Park_Inn_Resort-Candolim_Bardez_Goa.html,7,4.5,4.5,4,4.5,4,4.5,3.3,0.1,6.6
